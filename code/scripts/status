@@ -1,0 +1,6 @@
+#! /bin/bash
+
+export PGFOLDER=/Users/lengzhang/MyWorkSpace/PostGreSQL_DataBase
+export PGDATA=$PGFOLDER/myDB/data
+
+pg_ctl status

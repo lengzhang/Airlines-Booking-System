@@ -1,0 +1,1 @@
+./compile_GUI.sh&& ./run_GUI.sh flightDB 7432 lengzhang
