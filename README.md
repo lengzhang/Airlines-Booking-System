@@ -40,3 +40,38 @@ Moreover, we also consider a lot of corner cases. For instance, user can not inp
 ## Summary
 
 In this project, we finished both the extra credit for query and gui. We learned how to build a actual app using the query methods we learned from the lecture. We also understand how to build a user friendly interface by utilizing java swing.
+
+## GUI Demonstrate
+
+Main Menu
+![](images/01.png)
+
+1. 
+![](images/02.png)
+
+2. 
+![](images/03.png)
+
+3. 
+![](images/04.png)
+
+4. 
+![](images/05.png)
+
+5. 
+![](images/06.png)
+
+6. 
+![](images/07.png)
+
+7. 
+![](images/08.png)
+
+8. 
+![](images/09.png)
+
+9. 
+![](images/10.png)
+
+Information.
+![](images/11.png)
