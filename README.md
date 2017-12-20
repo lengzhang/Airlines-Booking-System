@@ -1,4 +1,4 @@
-# Airlines Booking System
+# Airlines Booking System - UCR 2017 Fall CS 166 Final Project
 
 ## Introduction
 
