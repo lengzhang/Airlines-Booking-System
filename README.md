@@ -1,9 +1,9 @@
 # Airlines Booking System - UCR 2017 Fall CS 166 Final Project
 By
 
-Leng Zhang : https://github.com/lengzhang
-
-Nelly(Qiwen) Lyu : https://github.com/qlyu001
+    Leng Zhang : https://github.com/lengzhang
+    
+    Nelly(Qiwen) Lyu : https://github.com/qlyu001
 ## Introduction
 
 In this project, with database provided, we built a app, which can help travel agency to book the flights and gather useful information. We no only finished the basic sql application, but also built a user friendly app. In this project, we used java swing as our api.
